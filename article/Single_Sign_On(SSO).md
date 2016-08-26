@@ -10,7 +10,7 @@
 
 下圖是經由Rick大的講解，以及自己消化後整理出來的圖
 
-![sso_flow](./static/img/SSO_flow.png)
+![sso_flow](../static/img/SSO_flow.png)
 
 至於…server該怎麼去驗證token的正確性…
 
